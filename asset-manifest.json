@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/invitation-card/static/css/main.e1818682.css",
-    "main.js": "/invitation-card/static/js/main.6ccebecd.js",
-    "static/js/453.10837982.chunk.js": "/invitation-card/static/js/453.10837982.chunk.js",
-    "static/media/powerbase-flyer.jpeg": "/invitation-card/static/media/powerbase-flyer.d48f0e1b8e490c86d7c0.jpeg",
-    "index.html": "/invitation-card/index.html",
-    "main.e1818682.css.map": "/invitation-card/static/css/main.e1818682.css.map",
-    "main.6ccebecd.js.map": "/invitation-card/static/js/main.6ccebecd.js.map",
-    "453.10837982.chunk.js.map": "/invitation-card/static/js/453.10837982.chunk.js.map"
+    "main.css": "/invoice-card/static/css/main.e1818682.css",
+    "main.js": "/invoice-card/static/js/main.284d2970.js",
+    "static/js/453.10837982.chunk.js": "/invoice-card/static/js/453.10837982.chunk.js",
+    "static/media/powerbase-flyer.jpeg": "/invoice-card/static/media/powerbase-flyer.d48f0e1b8e490c86d7c0.jpeg",
+    "index.html": "/invoice-card/index.html",
+    "main.e1818682.css.map": "/invoice-card/static/css/main.e1818682.css.map",
+    "main.284d2970.js.map": "/invoice-card/static/js/main.284d2970.js.map",
+    "453.10837982.chunk.js.map": "/invoice-card/static/js/453.10837982.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e1818682.css",
-    "static/js/main.6ccebecd.js"
+    "static/js/main.284d2970.js"
   ]
 }
