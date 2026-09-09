@@ -9,6 +9,10 @@ test('shows only the QR code before scanning', () => {
   render(<App />);
   expect(screen.queryByAltText(/powerbase ministry/i)).not.toBeInTheDocument();
   expect(screen.getByLabelText(/qr code/i)).toBeInTheDocument();
+  expect(screen.getByRole('link', { name: /open invitation image/i })).toHaveAttribute(
+    'href',
+    expect.stringContaining('?show=flyer')
+  );
 });
 
 test('shows the invitation after scanning the QR code', () => {

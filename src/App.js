@@ -27,6 +27,9 @@ function App() {
             aria-label="QR code for this invitation"
           />
           <p>Scan to view this invitation</p>
+          <a href={invitationUrl} target="_blank" rel="noreferrer">
+            Open invitation image
+          </a>
         </aside>
       </div>
     </main>
